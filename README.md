@@ -1,7 +1,3 @@
-# Introduction
-This repository contains implementations of materials in Planning and Decision making course at CMU. 
-Hence, All the planner codes were written as part of Planning and decision making course from scratch. Please refer to academic Integrity policy of CMU before using/referring these codes.
-
 # Algorithm
 * This repository contains implementation of graph based search algorithm for intercepting a moving target.
 * The approach is to use a weighted A* planner, but one which plans into the future.
@@ -11,3 +7,14 @@ Hence, All the planner codes were written as part of Planning and decision makin
 * There are two hyperparameters which need to be tuned as per map requirements - weight(for A*) and delta(for calculating how much into the future we want to plan)
 
 # Results
+* Following are trajectories followed to catch the target
+
+
+
+
+
+
+# Introduction
+This repository contains implementations of materials in Planning and Decision making course at CMU. 
+Hence, All the planner codes were written as part of Planning and decision making course from scratch. Please refer to academic Integrity policy of CMU before using/referring these codes.
+
