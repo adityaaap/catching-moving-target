@@ -18,8 +18,7 @@
 
 
 
-
-# Introduction
+# Note
 This repository contains implementations of materials in Planning and Decision making course at CMU. 
 Hence, All the planner codes were written as part of Planning and decision making course from scratch. Please refer to academic Integrity policy of CMU before using/referring these codes.
 
